@@ -1,0 +1,5 @@
+{
+  "name": "CreateList",
+  "main": "CreateList.js",
+  "browser": "CreateList.js"
+}
